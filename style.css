@@ -46,7 +46,7 @@ nav input{
     height: 150px;
     width: 150px;
 }
-img:hover{
+.img img:hover{
     box-shadow: 0px 18px 18px black;
     height: 152px;
     width: 152px;
